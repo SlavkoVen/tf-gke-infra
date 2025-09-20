@@ -1,0 +1,6 @@
+*.tfstate
+*.tfstate.backup
+*.tfvars.json
+*.tfvars
+devopspase-gcp-1425fbcfb638.json
+.terraform/
